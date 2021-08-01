@@ -43,8 +43,8 @@
 
 
 
-  <!--<welcome-file-list>
+  <welcome-file-list>
     <welcome-file>/views/result.jsp</welcome-file>
-  </welcome-file-list>-->
+  </welcome-file-list>
 
 </web-app>
