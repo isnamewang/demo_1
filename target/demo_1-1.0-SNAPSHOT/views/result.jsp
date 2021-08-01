@@ -11,6 +11,7 @@
     <title>result.jsp</title>
 </head>
 <body>
+${pageContext.request.serverPort}
 <form method="post" action="/demo_1/paramType/test1">
   姓名：<input name="name" value="Wanghuan"><br/>
   年龄:<input name="age" value="30"><br/>
